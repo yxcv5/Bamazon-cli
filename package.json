@@ -1,0 +1,24 @@
+{
+  "name": "bamazon-cli",
+  "version": "1.0.0",
+  "description": "command line storefront management",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxcv5/Bamazon-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxcv5/Bamazon-cli/issues"
+  },
+  "homepage": "https://github.com/yxcv5/Bamazon-cli#readme",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
